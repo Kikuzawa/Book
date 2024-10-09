@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e5c8a5252e881cfc",
+        "id": "aa7bbbb3c57a40f6",
         "type": "tabs",
         "children": [
           {
-            "id": "a0f3ed0170c0f84f",
+            "id": "a94b81fc8117fc7c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,6 +147,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0f3ed0170c0f84f",
-  "lastOpenFiles": []
+  "active": "a94b81fc8117fc7c",
+  "lastOpenFiles": [
+    "Системы управления криптографическими ключами.md",
+    "Специальные вопросы управления открытыми ключами.md",
+    "Уничтожение криптографических ключей.md",
+    "Использование криптографических ключей.md",
+    "Резервное копирование, архивация и восстановление ключей.md",
+    "Хранение криптографических ключей.md",
+    "README.md",
+    "Этапы в системе управления криптографическими ключами.md",
+    "Длина ключа и время жизни ключа.md",
+    "Основные требования к управлению ключами.md",
+    "Жизненный цикл криптографического ключа.md",
+    "Media/Pasted image 20241009165656.png",
+    "Управление криптографическими ключами.md",
+    "Криптоаналитическая атака.md",
+    "Основные типы криптоаналитических атак.md",
+    "Криптографический анализ и криптоаналитические атаки.md",
+    "Методы криптоанализа по области их применения.md",
+    "Классификация методов криптографического анализа.md",
+    "Цели, содержание и условия криптографического анализа.md",
+    "Media/Pasted image 20241009164955.png",
+    "Введение в инфраструктуру открытых ключей.md",
+    "Криптографическая стойкость.md",
+    "Оценка практической стойкости криптосистем.md",
+    "Совершенно стойкие шифры.md",
+    "Цифровые сертификаты и защищенный обмен сообщениями.md",
+    "Инфраструктура открытых ключей — Public Key Infrastructure (PKI).md",
+    "Проблемы и риски технологии PKI.md",
+    "Криптографические механизмы безопасности.md",
+    "Media/Pasted image 20241009164915.png",
+    "Media/Pasted image 20241009164852.png",
+    "Media/Pasted image 20241009164834.png",
+    "Media/Pasted image 20241009163921.png",
+    "Media/Pasted image 20241009163919.png",
+    "Media/Pasted image 20241009163138.png",
+    "Media/Pasted image 20241009163124.png",
+    "Media/Pasted image 20241009163010.png"
+  ]
 }
