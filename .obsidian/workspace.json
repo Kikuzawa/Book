@@ -8,14 +8,233 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a94b81fc8117fc7c",
+            "id": "41e30f393b177bf7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Нормативно-правовое обеспечение информационной безопасности/Система менеджмента непрерывности бизнеса (СМНБ).md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "3efefb2fc1ff0aac",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "d86181d02d7e286f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Технические средства защиты информации/Основные термины и определения в области технической защиты информации.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6762e10fa524013f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Технические средства защиты информации/Задачи и их составление.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ff77dae8427430f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Технические средства защиты информации/Replay Attack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c907cf0830d15ee9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Технические средства защиты информации/PAM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41e67d5712671e58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Криптография/Программа PGP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5cdee97912c40025",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Криптография/Алгоритм GHOST (Greedy Heaviest Observed Subtree – «самое тяжелое наблюдаемое поддерево»).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "244cf5e47c5853a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Криптография/Функции органа криптографической защиты.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9099d0ef31653625",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Нормативно-правовое обеспечение информационной безопасности/Аудит.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47491916395a8406",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Нормативно-правовое обеспечение информационной безопасности/Непрерывность бизнеса.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e3ab79d84e3480a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Нормативно-правовое обеспечение информационной безопасности/Менеджмент непрерывности бизнеса.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97fe9d1cb04854b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Нормативно-правовое обеспечение информационной безопасности/Корректирующее действие (corrective action).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f1e021bbf003958",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Нормативно-правовое обеспечение информационной безопасности/Оценка рисков ИБ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b214352c30c63fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6988c41a6aa7ff31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Криптография/Криптография.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "435376e313de177a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78e3d5bfcd9a4dbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Криптография/Предварительное распределение ключей.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8a023f6310e4a8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Криптография/Общие вопросы использования электронной подписи.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +263,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "серый",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,15 +284,57 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 498.5110321044922
   },
   "right": {
     "id": "edfe8c893aedfd73",
     "type": "split",
     "children": [
       {
+        "id": "a6616d48727afdbd",
+        "type": "tabs",
+        "dimension": 38.95582329317269,
+        "children": [
+          {
+            "id": "d7841408843e38fc",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6556921968397136,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "23f6a802765b82cf",
         "type": "tabs",
+        "dimension": 61.044176706827315,
         "children": [
           {
             "id": "f95f01529fbf3d82",
@@ -134,7 +395,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 531.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,43 +408,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a94b81fc8117fc7c",
+  "active": "3efefb2fc1ff0aac",
   "lastOpenFiles": [
-    "Системы управления криптографическими ключами.md",
-    "Специальные вопросы управления открытыми ключами.md",
-    "Уничтожение криптографических ключей.md",
-    "Использование криптографических ключей.md",
-    "Резервное копирование, архивация и восстановление ключей.md",
-    "Хранение криптографических ключей.md",
-    "README.md",
-    "Этапы в системе управления криптографическими ключами.md",
-    "Длина ключа и время жизни ключа.md",
-    "Основные требования к управлению ключами.md",
-    "Жизненный цикл криптографического ключа.md",
-    "Media/Pasted image 20241009165656.png",
-    "Управление криптографическими ключами.md",
-    "Криптоаналитическая атака.md",
-    "Основные типы криптоаналитических атак.md",
-    "Криптографический анализ и криптоаналитические атаки.md",
-    "Методы криптоанализа по области их применения.md",
-    "Классификация методов криптографического анализа.md",
-    "Цели, содержание и условия криптографического анализа.md",
-    "Media/Pasted image 20241009164955.png",
-    "Введение в инфраструктуру открытых ключей.md",
-    "Криптографическая стойкость.md",
-    "Оценка практической стойкости криптосистем.md",
-    "Совершенно стойкие шифры.md",
-    "Цифровые сертификаты и защищенный обмен сообщениями.md",
-    "Инфраструктура открытых ключей — Public Key Infrastructure (PKI).md",
-    "Проблемы и риски технологии PKI.md",
-    "Криптографические механизмы безопасности.md",
-    "Media/Pasted image 20241009164915.png",
-    "Media/Pasted image 20241009164852.png",
-    "Media/Pasted image 20241009164834.png",
-    "Media/Pasted image 20241009163921.png",
-    "Media/Pasted image 20241009163919.png",
-    "Media/Pasted image 20241009163138.png",
-    "Media/Pasted image 20241009163124.png",
-    "Media/Pasted image 20241009163010.png"
+    "5. Технические средства защиты информации/Replay Attack.md",
+    "5. Технические средства защиты информации/Виды каналов утечки информации.md",
+    "5. Технические средства защиты информации/Уровни OSI и угрозы.md",
+    "5. Технические средства защиты информации/Угрозы L1. Физического уровня.md",
+    "5. Технические средства защиты информации/Физическое разрушение.md",
+    "5. Технические средства защиты информации/Перехват сигнала.md",
+    "2. Сети и системы передачи данных/Физический уровень (Physical Layer).md",
+    "5. Технические средства защиты информации/Сниффинг сетевого трафика.md",
+    "5. Технические средства защиты информации/Угрозы L2. Канального уровня.md",
+    "5. Технические средства защиты информации/Evil Twin Attack.md",
+    "2. Сети и системы передачи данных/Канальный уровень (Data Link Layer).md",
+    "2. Сети и системы передачи данных/DHCP snooping.md",
+    "5. Технические средства защиты информации/MAC Flooding.md",
+    "5. Технические средства защиты информации/ARP Poisoning.md",
+    "5. Технические средства защиты информации/Угрозы L3. Сетевого уровня.md",
+    "5. Технические средства защиты информации/Ping of Death.md",
+    "5. Технические средства защиты информации/DDoS-атаки.md",
+    "2. Сети и системы передачи данных/Сетевой уровень (Network Layer).md",
+    "5. Технические средства защиты информации/IP Спуфинг.md",
+    "5. Технические средства защиты информации/Угрозы L4. Транспортного уровня.md",
+    "5. Технические средства защиты информации/UDP Flood.md",
+    "2. Сети и системы передачи данных/UDP.md",
+    "5. Технические средства защиты информации/Session Hijacking.md",
+    "5. Технические средства защиты информации/TCP SYN Flood.md",
+    "5. Технические средства защиты информации/Синтаксические атаки (Syntax Attacks).md",
+    "2. Сети и системы передачи данных/Транспортный уровень (Transport Layer).md",
+    "5. Технические средства защиты информации",
+    "Media/Pasted image 20241010160612.png",
+    "Media/Pasted image 20241010160552.png",
+    "Media/04_04_skzi_distr.png",
+    "Media/04_04_skzi_dev_order.png",
+    "Media/04_04_skzi_dev.png",
+    "Media/Pasted image 20241010154901.png",
+    "Media/Pasted image 20241010154622.png",
+    "Media/Pasted image 20241010154606.png",
+    "Media/Pasted image 20241010154356.png",
+    "Media/Pasted image 20241010154253.png",
+    "999. Разорабрать",
+    "4. Криптография",
+    "3. Защита в операционных системах",
+    "2. Сети и системы передачи данных",
+    "1. Нормативно-правовое обеспечение информационной безопасности",
+    "7.Безопасность и аудит/Организация/Без названия",
+    "7.Безопасность и аудит/Организация и бизнес",
+    "7.Безопасность и аудит/Законодательство РФ"
   ]
 }

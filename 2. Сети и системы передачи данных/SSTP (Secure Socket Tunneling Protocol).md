@@ -1,0 +1,1 @@
+**SSTP (Secure Socket Tunneling Protocol)** - SSTP был разработан Microsoft и является частью их технологии VPN для операционных систем Windows
