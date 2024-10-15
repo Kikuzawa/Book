@@ -1,3 +1,12 @@
 [
-  "obsidian-git"
+  "text-extractor",
+  "templater-obsidian",
+  "obsidian-plugin-toc",
+  "obsidian-style-settings",
+  "omnisearch",
+  "obsidian-math-plus",
+  "obsidian-excalidraw-plugin",
+  "better-word-count",
+  "emoji-shortcodes",
+  "table-editor-obsidian"
 ]

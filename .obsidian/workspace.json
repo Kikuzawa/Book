@@ -161,7 +161,7 @@
       {
         "id": "23f6a802765b82cf",
         "type": "tabs",
-        "dimension": 61.044176706827315,
+        "dimension": 61.04417670682731,
         "children": [
           {
             "id": "f95f01529fbf3d82",
@@ -226,13 +226,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Открыть палитру команд": false
     }
   },
   "active": "a7ab29c320e6eedb",
