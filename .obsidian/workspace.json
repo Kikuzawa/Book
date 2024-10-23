@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 498.5110321044922,
-    "collapsed": true
+    "width": 498.5110321044922
   },
   "right": {
     "id": "edfe8c893aedfd73",
@@ -95,7 +94,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "8. Шпаргалки/Git - ШПР.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -123,7 +121,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Git - ШПР"
+              "title": "Graph view"
             }
           }
         ]
@@ -223,8 +221,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7feb0f4b2180e419",
+  "active": "ae6e7f87b955c0be",
   "lastOpenFiles": [
+    "8. Шпаргалки/Git - ШПР.md",
+    "gitignone.md",
     "8. Шпаргалки/PostgreSQL - ШПР.md",
     "https:/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@github.com/Kikuzawa",
     "https:/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@github.com",
@@ -241,7 +241,6 @@
     "8. Шпаргалки/hydra - ШПР.md",
     "8. Шпаргалки/htop - ШПР.md",
     "8. Шпаргалки/Grep - ШПР.md",
-    "8. Шпаргалки/Git - ШПР.md",
     "8. Шпаргалки/enum4linux - ШПР.md",
     "8. Шпаргалки/Docker - ШПР.md",
     "8. Шпаргалки/dnsenum - ШПР.md",
