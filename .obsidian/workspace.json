@@ -4,64 +4,291 @@
     "type": "split",
     "children": [
       {
-        "id": "e0d66f81041277d4",
+        "id": "b6b4cb7a0298a3de",
         "type": "tabs",
         "children": [
           {
-            "id": "a7ab29c320e6eedb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "6ff1a0bad399d2f9",
+            "id": "815df9340f8319ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Теоретические основы ИБ/SIM.md",
+                "file": "8. Шпаргалки/Aircrack-ng - ШПР.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Aircrack-ng - ШПР"
             }
           },
           {
-            "id": "7f97aa9c1dccf5f4",
+            "id": "73ba0a5655732c39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Теоретические основы ИБ/Эффективность антивирусных программ.md",
+                "file": "8. Шпаргалки/amass - ШПР.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "amass - ШПР"
             }
           },
           {
-            "id": "8ac8c29fad89f7c3",
+            "id": "114fd47b4ba2fbd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Теоретические основы ИБ/Целостность информации (ресурсов автоматизированной информационной системы).md",
+                "file": "8. Шпаргалки/awk - ШПР.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "awk - ШПР"
             }
           },
           {
-            "id": "4efaff65cdc8c643",
+            "id": "d1e42a850c62e43d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Media/Pasted image 20241012144358.png"
-              }
+                "file": "8. Шпаргалки/dnsenum - ШПР.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dnsenum - ШПР"
+            }
+          },
+          {
+            "id": "36b0c5551eb8f378",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8. Шпаргалки/Docker - ШПР.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker - ШПР"
+            }
+          },
+          {
+            "id": "adf65ace060e6e9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8. Шпаргалки/enum4linux - ШПР.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "enum4linux - ШПР"
+            }
+          },
+          {
+            "id": "ac7b6a4992785d15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8. Шпаргалки/Git - ШПР.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git - ШПР"
+            }
+          },
+          {
+            "id": "6a12770b95164d76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8. Шпаргалки/Grep - ШПР.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Grep - ШПР"
+            }
+          },
+          {
+            "id": "41f195441c4abfab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8. Шпаргалки/htop - ШПР.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "htop - ШПР"
+            }
+          },
+          {
+            "id": "1261ba4133209ae4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8. Шпаргалки/hydra - ШПР.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "hydra - ШПР"
+            }
+          },
+          {
+            "id": "1028a03a91545136",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8. Шпаргалки/ip-tables - ШПР.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ip-tables - ШПР"
+            }
+          },
+          {
+            "id": "e326e10ce9949525",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8. Шпаргалки/Linux - ШПР.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux - ШПР"
+            }
+          },
+          {
+            "id": "0d5408f41b7678a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8. Шпаргалки/MySQL - ШПР.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MySQL - ШПР"
+            }
+          },
+          {
+            "id": "bedfe35fba7b09bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8. Шпаргалки/Nmap - ШПР.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nmap - ШПР"
+            }
+          },
+          {
+            "id": "9279b17fade6f442",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8. Шпаргалки/PostgreSQL - ШПР.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PostgreSQL - ШПР"
+            }
+          },
+          {
+            "id": "001d35a71d1dd219",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8. Шпаргалки/Регулярные выражения - ШПР.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Регулярные выражения - ШПР"
+            }
+          },
+          {
+            "id": "773c7bd75a676b7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8. Шпаргалки/sed - ШПР.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sed - ШПР"
+            }
+          },
+          {
+            "id": "53211f06307befea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8. Шпаргалки/Tmux - ШПР.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tmux - ШПР"
+            }
+          },
+          {
+            "id": "1adfc65f0918d94d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8. Шпаргалки/VIM - ШПР.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VIM - ШПР"
+            }
+          },
+          {
+            "id": "abd42382dc78e7db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8. Шпаргалки/PostgreSQL - ШПР.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PostgreSQL - ШПР"
             }
           }
-        ]
+        ],
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -81,7 +308,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -90,13 +319,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ответственность",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -104,7 +335,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -128,6 +361,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "8. Шпаргалки/PostgreSQL - ШПР.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -153,7 +387,9 @@
                   "scale": 0.7909934336625217,
                   "close": true
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of PostgreSQL - ШПР"
             }
           }
         ]
@@ -169,6 +405,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "8. Шпаргалки/PostgreSQL - ШПР.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +413,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for PostgreSQL - ШПР"
             }
           },
           {
@@ -185,9 +424,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "8. Шпаргалки/PostgreSQL - ШПР.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from PostgreSQL - ШПР"
             }
           },
           {
@@ -198,7 +440,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -206,7 +450,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "8. Шпаргалки/PostgreSQL - ШПР.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of PostgreSQL - ШПР"
             }
           },
           {
@@ -214,7 +462,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -226,46 +476,49 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7ab29c320e6eedb",
+  "active": "ae6e7f87b955c0be",
   "lastOpenFiles": [
+    "8. Шпаргалки/sed - ШПР.md",
+    "8. Шпаргалки/volatility - ШПР.md",
+    "8. Шпаргалки/VIM - ШПР.md",
+    "8. Шпаргалки/Tmux - ШПР.md",
+    "8. Шпаргалки/Регулярные выражения - ШПР.md",
+    "8. Шпаргалки/PostgreSQL - ШПР.md",
+    "8. Шпаргалки/Nmap - ШПР.md",
+    "8. Шпаргалки/MySQL - ШПР.md",
+    "8. Шпаргалки/Linux - ШПР.md",
+    "8. Шпаргалки/ip-tables - ШПР.md",
+    "8. Шпаргалки/hydra - ШПР.md",
+    "8. Шпаргалки/htop - ШПР.md",
+    "8. Шпаргалки/Grep - ШПР.md",
+    "8. Шпаргалки/Git - ШПР.md",
+    "8. Шпаргалки/enum4linux - ШПР.md",
+    "8. Шпаргалки/Docker - ШПР.md",
+    "8. Шпаргалки/dnsenum - ШПР.md",
+    "8. Шпаргалки/awk - ШПР.md",
+    "8. Шпаргалки/amass - ШПР.md",
+    "8. Шпаргалки/Aircrack-ng - ШПР.md",
+    "Media/Pasted image 20241023152401.png",
+    "8. Шпаргалки",
+    "5. Технические средства защиты информации/Sandbox.md",
+    "7. Теоретические основы ИБ/Целостность информации (ресурсов автоматизированной информационной системы).md",
+    "README.md",
     "7. Теоретические основы ИБ/Эффективность антивирусных программ.md",
     "7. Теоретические основы ИБ/SEM.md",
     "7. Теоретические основы ИБ/SIM.md",
-    "7. Теоретические основы ИБ/Теория применения требований ИБ.md",
-    "7. Теоретические основы ИБ/Методики и подходы к психологической защиты и защите ПД.md",
-    "5. Технические средства защиты информации/Социальная инженерия.md",
-    "7. Теоретические основы ИБ/Основные защитные методы Социальной инженерии.md",
-    "7. Теоретические основы ИБ/Многоуровневая модель обеспечения безопасности.md",
-    "7. Теоретические основы ИБ/Классификация угроз Социальной инженерии.md",
-    "7. Теоретические основы ИБ/Способы защиты от социальной инженерии.md",
-    "7. Теоретические основы ИБ/Техники воздействия Социальной инженерии.md",
-    "7. Теоретические основы ИБ/Обратная социальная инженерия.md",
-    "7. Теоретические основы ИБ/Плечевой серфинг.md",
-    "7. Теоретические основы ИБ/Сбор информации из открытых источников.md",
-    "7. Теоретические основы ИБ/«Дорожное яблоко».md",
-    "7. Теоретические основы ИБ/Квид про кво.md",
-    "7. Теоретические основы ИБ/Претекстинг.md",
-    "7. Теоретические основы ИБ/Вишинг.md",
-    "5. Технические средства защиты информации/Фишинг.md",
-    "5. Технические средства защиты информации/Phishing.md",
-    "7. Теоретические основы ИБ/Методики и подходы к физической ЗИ.md",
-    "7. Теоретические основы ИБ/Физические меры защиты.md",
-    "7. Теоретические основы ИБ/Биометрические средства ограничения доступа..md",
-    "7. Теоретические основы ИБ/Средства ограничения доступа.md",
-    "7. Теоретические основы ИБ/Естественные средства противодействия вторжению..md",
-    "7. Теоретические основы ИБ/Охранное телевидение.md",
     "Media/Pasted image 20241013194841.png",
     "Media/Pasted image 20241013192054.png",
     "Media/Pasted image 20241013191556.png",
@@ -275,7 +528,6 @@
     "Media/Pasted image 20241012152349.png",
     "Media/Pasted image 20241012150341.png",
     "Media/Pasted image 20241012145050.png",
-    "Media/Pasted image 20241012144805.png",
     "7. Теоретические основы ИБ",
     "6. Программная инженерия",
     "3. Защита в операционных системах/Windows",
@@ -284,7 +536,6 @@
     "POP3",
     "HTTP",
     "5. Технические средства защиты информации",
-    "999. Разорабрать",
-    "4. Криптография"
+    "999. Разорабрать"
   ]
 }
